@@ -41,7 +41,7 @@ class _ProfilePageState extends State<ProfilePage> {
        Navigator.pushNamed(context, "/discount");
       },),
       const Divider( thickness: 1,  endIndent:  10, indent: 10,),
-      ListTile(title: const Text("Helps & Support"), leading: const Icon(Icons.support_agent), onTap: (){
+      ListTile(title: const Text("Help & Support"), leading: const Icon(Icons.support_agent), onTap: (){
        ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text("Mail us at amanchaudhary4510@gmail.com")));
       },),
       const Divider( thickness: 1,  endIndent:  10, indent: 10,),
