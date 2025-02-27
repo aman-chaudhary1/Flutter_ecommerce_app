@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326716042463",
+    "project_id": "sazedar-b526f",
+    "storage_bucket": "sazedar-b526f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326716042463:android:e6a68e39a931b289fa8d6a",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdjt92vcVODnJMoAZJD8FLhee9wyDfuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326716042463:android:83d8147275cfceb9fa8d6a",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdjt92vcVODnJMoAZJD8FLhee9wyDfuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
